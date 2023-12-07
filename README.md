@@ -2,11 +2,13 @@
 
 In our group's final project, we identify the best Pittsburgh neighborhood to raise a family in, based on school enrollment, environment and safety.
 
-Canvas Group Number- 30
+Canvas Group Number - 30
 
+### Emails: 
 Suzette Kincer-sgk38@pitt.edu 
 Adelle Melnikov - adm259@pitt.edu
 Aileen Alarcon - ana220@pitt.edu
+
 
 Suzette - Playgrounds.ipynb
 
@@ -16,6 +18,7 @@ This data set lists all the playgrounds in Pittsburgh including what neighborhoo
 
 
 Adelle - SchoolEnrollment.ipynb
+
 My data set is titled the Pittsburgh Public Schools Enrollment by Neighborhood, School, and Feeder Pattern
 Data Set link: https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
 This data set includes each neighborhood in Pittsburgh, and the number of students enrolled based on race, grade-level, and feeder pattern

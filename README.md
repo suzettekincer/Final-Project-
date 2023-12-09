@@ -9,6 +9,7 @@ Suzette Kincer-sgk38@pitt.edu
 Adelle Melnikov - adm259@pitt.edu
 Aileen Alarcon - ana220@pitt.edu
 
+### Metrics: 
 
 Suzette - Playgrounds.ipynb
 
